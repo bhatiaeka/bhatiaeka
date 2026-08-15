@@ -15,7 +15,7 @@ I'm a junior studying data science and mathematics at Northeastern University, c
 
 | Role | Company | Where | When |
 |---|---|---|---|
-| Quantum Sales and Operations Intern | IBM Quantum | Yorktown Heights, NY | May to Aug 2026 |
+| Quantum Data Operations Intern | IBM Quantum | Yorktown Heights, NY | May to Aug 2026 |
 | Backend Engineering Intern | AIR Health | Boston, MA | Oct to Dec 2025 |
 | Data Science Intern | Kaliber Technologies | Boston, MA | Oct to Dec 2025 |
 | Software Engineering Intern | Ricovr Healthcare | Princeton, NJ | May to Aug 2025 |
