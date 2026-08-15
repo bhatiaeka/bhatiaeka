@@ -1,6 +1,6 @@
 # Ekam Bhatia
 
-**Mathematical thinking applied to products.**
+**Mathematical thinking, product analytics and engineering.**
 
 I'm a junior studying data science and mathematics at Northeastern University, currently interning at Amazon in Seattle. Outside of coursework I build things end to end, and I love building tools that reach and genuinely impact users.
 
