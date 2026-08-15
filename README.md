@@ -2,14 +2,14 @@
 
 **Mathematical thinking applied to products.**
 
-I'm a junior studying data science and mathematics at Northeastern University, currently interning at Amazon in Seattle. Outside of coursework I build things end to end, and I'd rather delete a feature that isn't earning its place than keep it around for the sake of having built it.
+I'm a junior studying data science and mathematics at Northeastern University, currently interning at Amazon in Seattle. Outside of coursework I build things end to end, and I love building tools that reach and genuinely impact users.
 
 ## Currently
 
 - Incoming Software Development Engineer Intern, Amazon, Seattle, Aug to Dec 2026, working on data pipelines that evaluate generative AI media output in the Stores org
 - Undergraduate researcher, Northeastern Bouvé College of Health Sciences, since May 2025
 - B.S. Data Science and Mathematics, Northeastern University, expected May 2028, GPA 3.92, Dean's List Spring 2025 and Fall 2025
-- Open to quant research, quant development, software engineering, and data science internships for 2027
+- Open to product management, software engineering, data science internships for 2027
 
 ## Previously
 
