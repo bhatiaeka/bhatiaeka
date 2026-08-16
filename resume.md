@@ -1,2 +1,0 @@
-Ekam Bhatia
-Northeastern University
