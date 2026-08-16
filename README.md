@@ -37,7 +37,7 @@ At Bouvé, I work on SuperLearner ensemble models over more than 25 million insu
 | Bayesian Optimized Cointegration Trading | Statistical arbitrage strategy using the Johansen test to find mean reverting asset pairs, tuning basket weights, entry and exit thresholds, and lookback window with Optuna to beat the Johansen baseline out of sample on Sharpe, validated on spread stationarity, half life, and drawdown across market regimes under realistic transaction costs | Python, NumPy, pandas, statsmodels, Optuna |
 | QShell (🏆 Best Blockchain Award, FinHacks, 33 teams) | Quantum resilient transaction platform pairing a simplified Kyber KEM lattice based key exchange with AES over a real time WebSocket interface, logging encrypted transactions immutably via Ethereum smart contracts and simulating a Grover's speedup brute force attack to quantify security margins | Python, Solidity, Node.js, Web3.py |
 | Cloud Vision Inference | Serverless CV inference pipeline with a C optimized preprocessing core wired in through Python FFI, cutting preprocessing latency about 60%, with a modular architecture for adding new models | Python, C, AWS Lambda, S3, IAM |
-| Quantum Algorithms | Visualized demonstrations of multiple quantum algorithms, as well as their advantages | Python |
+| Quantum Algorithms | Implementation and visualization of multiple quantum algorithms, exposing their quantum advantage and use cases | Python |
 
 ## Stack
 
