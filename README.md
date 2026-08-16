@@ -47,7 +47,7 @@ At Bouvé, I work on SuperLearner ensemble models over more than 25 million insu
 | Frontend | React, Next.js |
 | Backend | FastAPI, Node.js, REST APIs |
 | Data and ML | PyTorch, LangChain, LangGraph, pandas, NumPy, statsmodels, Optuna, SuperLearner ensembles, Google ML Kit, watsonx Granite |
-| Databases | PostgreSQL, pgvector |
+| Databases | MySQL, NoSQL, PostgreSQL, pgvector |
 | Big data | Apache Spark |
 | Cloud and infra | AWS (Lambda, S3, IAM), Vercel, Linux, Git |
 | Visualization | Tableau, Power BI |
